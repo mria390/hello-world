@@ -1,5 +1,4 @@
 # hello-world
-versuch
 
 Hey,
 ich probiere das hier jetzt mal aus!
